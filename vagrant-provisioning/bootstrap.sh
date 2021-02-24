@@ -58,4 +58,5 @@ cat >>/etc/hosts<<EOF
 10.0.0.220   kmaster.example.com     kmaster
 10.0.0.221   kworker1.example.com    kworker1
 10.0.0.222   kworker2.example.com    kworker2
+10.0.0.223   kworker3.example.com    kworker3
 EOF
